@@ -1,0 +1,30 @@
+body { 
+background: #fff;
+color: #000; 
+font-family: arial, sans-serif;
+font-size: 14px;
+}
+
+.main {
+max-width: 600px;
+margin: 20px;
+}
+
+.header {
+font-family: 'Bree Serif', serif;
+text-align: center;
+font-size: 22px;
+}
+
+.post {
+text-align: left;
+font-size: 14px;
+}
+    
+a:link, a:visited { 
+color: #555; 
+}
+    
+h1, h2, h3 {  
+font-weight:normal;
+}
