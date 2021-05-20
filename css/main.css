@@ -22,13 +22,15 @@ padding-bottom: 20px;
 font-family: 'Syne Mono', monospace;
 font-size: 24px;
 color:#000080;
+margin-top:20px;
 }
 
 .post {
 font-size: 14.5px;
 line-height:1.5;
-padding-bottom: 50px;
+padding-bottom: 20px;
 font-family: 'Inter', sans-serif;
+border-bottom: 2px solid #000;
 }
     
 a:link, a:visited { 
