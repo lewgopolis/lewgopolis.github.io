@@ -26,7 +26,8 @@ font-size: 22px;
 
 .post {
 text-align: justify;
-font-size: 14px;
+font-size: 14.5px;
+line-height:1.4;
 padding-bottom: 50px;
 font-family: 'Inter', sans-serif;
 }
