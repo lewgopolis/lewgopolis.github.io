@@ -11,17 +11,10 @@ margin: 20px;
 padding:10px;
 }
 
-.maintitle {
+.title {
 font-family: 'Calistoga', cursive;
 font-size: 42px;
 letter-spacing:-1px;
-}
-
-.header {
-font-family: 'Caladea', serif;
-font-size: 24px;
-font-weight:700;
-margin-top: 30px;
 }
 
 .post {
