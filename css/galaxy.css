@@ -3,7 +3,7 @@ background: #000;
 color: #fff; 
 font-family: "arial", sans-serif;
 font-size: 14px;
-background-image: url("back.png");
+background-image: url("/img/back.png");
 }
 
 .main {
