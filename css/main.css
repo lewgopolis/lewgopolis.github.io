@@ -1,6 +1,5 @@
-body { 
-background: #fff;
-color: #000; 
+body {
+background: #efefef; 
 font-family: "arial", sans-serif;
 font-size: 14px;
 }
@@ -13,8 +12,9 @@ padding:10px;
 
 .title {
 font-family: 'Calistoga', cursive;
-font-size: 42px;
-letter-spacing:-1px;
+font-size: 38px;
+text-shadow: 2px 2px #00000033;
+text-align:center;
 }
 
 .post {
@@ -22,7 +22,8 @@ font-size: 14.5px;
 line-height:1.5;
 padding-bottom: 20px;
 font-family: 'Inter', sans-serif;
-border-bottom: 2px solid #000;
+border-bottom: 2px solid #000000;
+margin-bottom:20px;
 }
     
 a:link, a:visited { 
@@ -42,4 +43,11 @@ table, th, td {
 th, td {
   padding: 5px;
   text-align: left;    
+}
+
+img {
+  float: right;
+  max-width:150px;
+  max-height:150px;
+  margin-left:15px;
 }
