@@ -4,6 +4,9 @@ color: #fff;
 font-family: "arial", sans-serif;
 font-size: 14px;
 background-image: url("/img/back.png");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center; 
 }
 
 .main {
