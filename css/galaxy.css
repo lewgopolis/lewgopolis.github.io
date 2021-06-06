@@ -20,6 +20,7 @@ padding:10px;
 font-family: 'Calistoga', cursive;
 font-size: 38px;
 text-shadow: 3px 3px #00000038;
+text-align:center;
 }
 
 .post {
@@ -52,7 +53,7 @@ th, td {
 
 img {
   float: right;
-  max-width:200px;
-  max-height:200px;
+  max-width:150px;
+  max-height:150px;
   margin-left:15px;
 }
