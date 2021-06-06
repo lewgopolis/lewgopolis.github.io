@@ -47,3 +47,10 @@ th, td {
   padding: 5px;
   text-align: left;    
 }
+
+img {
+  float: right;
+  max-width:150px;
+  max-height:150px;
+  margin-left:15px;
+}
