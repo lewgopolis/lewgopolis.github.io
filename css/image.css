@@ -1,10 +1,11 @@
 body {
 font-family: "arial", sans-serif;
 font-size: 14px;
-  background-image: url("back.png");
+  background-image: url("/back.png");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 
