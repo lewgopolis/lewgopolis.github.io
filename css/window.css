@@ -93,7 +93,7 @@
             float: right;
             width: 50px;
             height: 15px;
-            background-image: url('icons.png');
+            background-image: url('/icons.png');
             background-repeat: no-repeat;
             background-position: -2px -33px;
         }
@@ -104,7 +104,7 @@
         .title-bar .icon {
             width: 16px;
             height: 16px;
-            background-image: url('icons.png');
+            background-image: url('/icons.png');
             background-repeat: no-repeat;
             background-position: -64px -16px;
             float: left;
@@ -184,7 +184,7 @@
             float: right;
             width: 16px;
             height: 16px;
-            background-image: url('icons.png');
+            background-image: url('/icons.png');
             background-repeat: no-repeat;
             background-position: -160px -32px;
         }
