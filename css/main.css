@@ -56,6 +56,6 @@ th, td {
 img {
   float: right;
   max-width:300px;
-  max-height:auto;
+  height:auto;
   margin-left:15px;
 }
