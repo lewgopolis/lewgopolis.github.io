@@ -1,7 +1,7 @@
         body {
             background-color: #386ca0;
             font-family: Tahoma, 'MS Sans Serif', sans-serif;
-            width: 690px;
+            width: 500px;
             margin: 0 auto;
         }
         a, a:hover {
@@ -9,9 +9,9 @@
         }
         main {
             float: left;
-            width: 510px;
-            margin-top: 64px;
-            margin-bottom: 32px;
+            width: 500px;
+            margin-top: 10%;
+            margin-bottom: 10%;
         }
         .window-border {
             margin-bottom: 48px;
@@ -22,7 +22,7 @@
             border-bottom-color: #404040;
         }
         main .window-border {
-            width: 510px;
+            width: 500px;
             float: left;
         }
 
