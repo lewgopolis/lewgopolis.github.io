@@ -1,7 +1,8 @@
 body {
-background: #efefef; 
+background: #f2f2f2; 
 font-family: "arial", sans-serif;
 font-size: 14px;
+color:#3a3a3a;
 }
 
 .main {
@@ -22,12 +23,12 @@ font-size: 14px;
 line-height:1.5;
 padding-bottom: 20px;
 font-family: 'Inter', sans-serif;
-border-bottom: 2px solid #000000;
+border-bottom: 2px solid #b9bcbc;
 margin-bottom:20px;
 }
     
 a:link, a:visited { 
-color: #555; 
+color: #348081; 
 text-decoration: none;
 }
     
