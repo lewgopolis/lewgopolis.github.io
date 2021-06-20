@@ -1,0 +1,194 @@
+        body {
+            background-color: #386ca0;
+            font-family: Tahoma, 'MS Sans Serif', sans-serif;
+            width: 690px;
+            margin: 0 auto;
+        }
+        a, a:hover {
+            text-decoration: none;
+        }
+        main {
+            float: left;
+            width: 510px;
+            margin-top: 64px;
+            margin-bottom: 32px;
+        }
+        .sidebar {
+            position: fixed;
+            margin-left: 550px;
+            margin-top: 64px;
+            width: 136px;
+            font-size: 12px;
+        }
+        .sidebar-links {
+            list-style-type: none;
+            padding-left: 0;
+            margin: 4px 0;
+        }
+        .button-border {
+            border: 1px solid #404040;
+            border-top-color: white;
+            border-left-color: white;
+            margin-bottom: 4px;
+        }
+        .button-border:active {
+            border: 1px solid #404040;
+        }
+        .sidebar-links li {
+            border: 1px solid #808080;
+            border-top-color: #d0d0c8;
+            border-left-color: #d0d0c8;
+            text-align: center;
+            color: black;
+            font-size: 11px;
+            padding: 4px 0;
+        }
+        .sidebar-links li:active {
+            border: 1px solid #808080;
+            color: rgba(0,0,0,0);
+            text-shadow: 1px 1px 0px black;
+        }
+        .blog-description {
+            text-align: center;
+            padding: 10px;
+            font-size: 10px;
+            word-wrap: break-word;
+        }
+        .window-border {
+            margin-bottom: 48px;
+            margin-right: 48px;
+            width: 100%;
+            border: 1px solid #d0d0c8;
+            border-right-color: #404040;
+            border-bottom-color: #404040;
+        }
+        main .window-border {
+            width: 510px;
+            float: left;
+        }
+
+        .window {
+            background-color: #d0d0c8;
+            padding: 2px;
+            border: 1px solid #d0d0c8;
+            border-left-color: white;
+            border-top-color: white;
+            border-right-color: #808080;
+            border-bottom-color: #808080;
+        }
+        .title-bar {
+            background-color: #082468;
+            background: -moz-linear-gradient(left, #082468} 0%, #a0c8f0 100%);
+            background: -webkit-linear-gradient(left, #082468 0%, #a0c8f0 100%);
+            background: linear-gradient(to right, #082468, #a0c8f0);
+            color: #ffffff;
+            font-size: 11px;
+            font-weight: bold;
+            padding: 1px;
+            overflow-y: hidden;
+            cursor: default;
+            min-height: 16px;
+        }
+        .title-bar-buttons {
+            float: right;
+            width: 50px;
+            height: 15px;
+            background-image: url('static.tumblr.com/anzluor/Fgkolwea1/m56u7v9.png');
+            background-repeat: no-repeat;
+            background-position: -2px -33px;
+        }
+        .title-bar img {
+            margin-right: 2px;
+            vertical-align: middle;
+        }
+        .title-bar .icon {
+            width: 16px;
+            height: 16px;
+            background-image: url('static.tumblr.com/anzluor/Fgkolwea1/m56u7v9.png');
+            background-repeat: no-repeat;
+            background-position: -64px -16px;
+            float: left;
+            margin-right: 2px;
+        }
+
+        .text .title-bar .icon {
+            background-position: -96px 0;
+        }
+        .menu-bar {
+            padding-bottom: 1px;
+        }
+        .menu-items {
+            list-style-type: none;
+            padding-left: 0;
+            margin: 0;
+        }
+        .menu-items li {
+            color: black;
+            font-size: 11px;
+            display: inline-block;
+            padding: 1px 6px;
+            cursor: default;
+            border: 1px solid #d0d0c8;
+        }
+        .menu-items li:hover {
+            color: black;
+            cursor: default;
+            border: 1px outset #d0d0c8;
+        }
+        .menu-items li:active {
+            border: 1px solid #808080;
+            border-right-color: white;
+            border-bottom-color: white;
+            color: rgba(0,0,0,0);
+            text-shadow: 1px 1px 0px black;
+        }
+        .text-area {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 12px;
+            border: 1px inset #d0d0c8;
+            border-left-color: #404040;
+            border-top-color: #404040;
+            border-right-color: white;
+            border-bottom-color: white;
+            background-color: white;
+            padding: 10px 20px;
+            line-height:1.4;
+
+        }
+        .text-area a {
+            color: black;
+            text-decoration: underline;
+        }
+        .text-area a:hover {
+            color: #444;
+            text-decoration: underline;
+        }
+        .text-area img {
+            max-width: 100%;
+            height: auto;
+        }
+        .status-bar {
+            padding: 4px 2px;
+            margin-top: 2px;
+            border: 1px solid #d0d0c8;
+            border-left-color: #808080;
+            border-top-color: #808080;
+            border-right-color: white;
+            border-bottom-color: white;
+            font-size: 11px;
+        }
+        .status-bar a {
+            color: black;
+        }
+        .grip {
+            float: right;
+            width: 16px;
+            height: 16px;
+            background-image: url('static.tumblr.com/anzluor/Fgkolwea1/m56u7v9.png');
+            background-repeat: no-repeat;
+            background-position: -160px -32px;
+        }
+ 
+        .post-section {
+            border-bottom: 1px solid #ddd;
+        }
