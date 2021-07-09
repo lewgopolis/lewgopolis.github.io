@@ -33,6 +33,7 @@ margin-bottom:20px;
 }
     
 a:link, a:visited { 
+font-weight:500;
 color: #348081; 
 text-decoration: none;
 }
