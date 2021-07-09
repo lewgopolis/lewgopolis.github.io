@@ -1,6 +1,6 @@
 body {
 background: #f2f2f2; 
-font-family: "Rubik", sans-serif;
+font-family: 'Rubik', sans-serif;
 font-size: 14px;
 color:#000000;
 }
@@ -27,7 +27,7 @@ font-size: 14px;
 color:#3a3a3a;
 line-height:1.4;
 padding-bottom: 20px;
-font-family: 'arial', sans-serif;
+font-family: 'Rubik', sans-serif;
 border-bottom: 2px solid #b9bcbc;
 margin-bottom:20px;
 }
